@@ -1,0 +1,7 @@
+files/
+files1/
+new/
+.idea/*
+*.csv
+*.xlsx#
+*.pdf
